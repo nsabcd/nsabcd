@@ -41,9 +41,9 @@ Engineering leader with 16 years of experience building and operating large-scal
 
 | Repository | Description & System Scope | Core Tech Stack |
 | :--- | :--- | :--- |
-| **[Enterprise IAM System](https://github.com/nsabcd/iam-system)** | Modern, modular IAM platform supporting human authentication and machine-to-machine (M2M) entities with OAuth2/PKCE and JWKS endpoint publishing[cite: 2]. | Spring Boot 3.3.3, Spring Security 6, JPA, H2[cite: 2] |
-| **[TurboToggle](https://github.com/nsabcd/turbotoggle)** | High-performance feature flagging and targeted rollout platform engineered for sub-5ms local evaluation and real-time streaming updates via Server-Sent Events (SSE)[cite: 3]. | Spring Boot 3.3, Java 21 Virtual Threads, Redis, MurmurHash3[cite: 3] |
-| **[API Usage Metering & Billing Pipeline](https://github.com/nsabcd/api-metering-pipeline)** | Distributed microservices architecture for real-time telemetry ingestion, time-series aggregation, and automated usage-based invoicing[cite: 4]. | Spring Cloud, Redpanda, TimescaleDB, Docker[cite: 4] |
+| **[Enterprise IAM System](https://github.com/nsabcd/iam-system)** | Modern, modular IAM platform supporting human authentication and machine-to-machine (M2M) entities with OAuth2/PKCE and JWKS endpoint publishing. | Spring Boot 3.3.3, Spring Security 6, JPA, H2 |
+| **[TurboToggle](https://github.com/nsabcd/turbotoggle)** | High-performance feature flagging and targeted rollout platform engineered for sub-5ms local evaluation and real-time streaming updates via Server-Sent Events (SSE). | Spring Boot 3.3, Java 21 Virtual Threads, Redis, MurmurHash3 |
+| **[API Usage Metering & Billing Pipeline](https://github.com/nsabcd/api-metering-pipeline)** | Distributed microservices architecture for real-time telemetry ingestion, time-series aggregation, and automated usage-based invoicing. | Spring Cloud, Redpanda, TimescaleDB, Docker |
 
 ---
 
